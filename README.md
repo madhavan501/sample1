@@ -1,4 +1,3 @@
-
 <html>
  <head>
   <h1>Google layout</h1>
